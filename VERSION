@@ -1,0 +1,9 @@
+commit f6570413d481de4344db81d37983cebff9cd5bbc
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Thu Oct 1 08:29:22 2020 -1000
+
+    # Jump to Section (#1587)
+    
+    * jump to # on page load
+    
+    * handle auto page jump
